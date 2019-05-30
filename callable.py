@@ -3,7 +3,7 @@ class Dummy:
         self.vara = None
 
     def get_vara():
-        return self.vraa
+        return self.vara
     
     def set_vara(self):
         return "foo"
