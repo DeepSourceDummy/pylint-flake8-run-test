@@ -2,7 +2,7 @@ class Dummy:
     def __init__(self):
         self.vara = None
 
-    get_vara():
+    def get_vara():
         return self.vara
 
 
